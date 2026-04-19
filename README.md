@@ -113,13 +113,10 @@ flowchart LR
 
 This approach introduces chunking and concurrency using multiple threads.
 
-![Image](https://images.openai.com/static-rsc-4/d_ryrolc-186Ry1YJKt2CYxi9aFNri1p3bA3o0IhFQhR7X8SySISxlOuqRVOPUNrR2uaZq1A-BqLG4o1ZJ2ZobS1tRxd6WKotuDzKb01pD4mVdmcgxkPiSmVV259GP6mFe4UuevyYMDLbY5Si5CpFG67z9cfrbgNlff-8QR3YCWHMesCTx10nn3HSmJXwUm0?purpose=fullsize)
-
 ![Image](https://images.openai.com/static-rsc-4/AIynWNZU4up5sAVxNNy5baQ4uY-zVEiRx-8TuzpmkZc6bnk-0dqGhnMNRr4IvpfUU_54FAYFt9tzodV2mpAMxD-2asxMB3EQdZZtIoYJits5HKAYRNApYsKQetrAOeKRefVCp0YUT8z8ru0yK-Zc9Qap_KAPVLf4mM_yIKZh1RyS5-Cv8TJqWu1B5WHnIEbU?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/PC3HBF5_c4So57_7KNRYh9nDzwWPLXB9pREP135Y3C9-YUFKhz5wdZUD_CYb4_FnY-UiXLk6poQKe9XhhZ8QFmiM4kxy8vUxzkvEgCgYYWKz1T4r4aRW45vN6X4D2R-71PZK6v7IbXLfA0bfRSjsqcpKYqBqAHgYYkbulm-vBPetkR-0ybzxoChePzypaxwE?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/26aOL_M1ct8ZklLT9AvVmk46NGbWPRwaBkGZaMYauSIH3_KjTc4bWgSv2QK20jtQQY1Y4k85l6Mfm5SrbRGuFaA6f-dwuOjIRF34q3AdPzpTCMR0Z3-Q8CxGeaFDg1in09UtwDBUe5YkJKRq7yXjkbBsQE83RSUFq1sv5i7uiAMqB1N6M2G6zoNDGBX5rtZj?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/JhqL-DTIihZ_88Zz2-UBkO1nUSSjLnk5kMOyQ3uhY-Zmn5Av1rOGA1pA5ShJU8OkL0UUtw29vdsElSBrPiNCez64w68iVy_-LGJIbZZCVzEilk0Z5h4YAtXMrE_Yl7cBOoYBu0rtWi2av5HgwwbZVywNv3LvLkX4ou-07mM1AmOcooF9S_ZK9brOmix9J7gH?purpose=fullsize)
 
