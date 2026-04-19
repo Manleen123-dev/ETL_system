@@ -244,7 +244,7 @@ The generated outputs help answer:
 ## 📉 Sample Results
 
 ### Result Table
-\<img width="1062" height="480" alt="image" src="https://github.com/user-attachments/assets/1d4c7a79-bf6e-4a29-8091-988a2bf8a7d4" />
+<img width="1062" height="480" alt="image" src="https://github.com/user-attachments/assets/1d4c7a79-bf6e-4a29-8091-988a2bf8a7d4" />
 
 
 
