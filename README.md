@@ -245,7 +245,7 @@ The generated outputs help answer:
 
 ### Result Table
 
-*(Insert your generated table image here)*
+C:\Users\kaurm\Desktop\ETL_System\results\benchmark_plot.png
 
 ```text
 results/results_table.png
