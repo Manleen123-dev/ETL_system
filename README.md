@@ -244,16 +244,17 @@ The generated outputs help answer:
 ## 📉 Sample Results
 
 ### Result Table
+\<img width="1062" height="480" alt="image" src="https://github.com/user-attachments/assets/1d4c7a79-bf6e-4a29-8091-988a2bf8a7d4" />
 
-C:\Users\kaurm\Desktop\ETL_System\results\benchmark_plot.png
+
 
 ```text
 results/results_table.png
 ```
 
 ### Performance Plot
+<img width="1320" height="760" alt="image" src="https://github.com/user-attachments/assets/63e71618-80bb-4674-9d8c-317e8bff0435" />
 
-*(Insert your generated plot here)*
 
 ```text
 results/benchmark_plot.png
