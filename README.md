@@ -85,17 +85,13 @@ flowchart LR
 
 This strategy separates extraction, transformation, and loading into distinct phases.
 
-![Image](https://images.openai.com/static-rsc-4/MUdAqhCq4JcjhStxHzR6krLnv_xxQVb0DH-7K8jMprOMTljy2ht6rS6fR2n6_yYja1zg8H_Qc2HAzFnVdrbN3L57bdQPcAdxsxVwFl1Z7Db1CVVxNHfHl2fqz_yaRIduNEvjQ3f0ZPC6qOVR3DoXERwOT1yQSkGU04p2MqhZtHwsKQoj5v03ycXanYEqKkje?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/rcdHIHf3NC8_nK01YC-MmnzEUqUFi1vfSyY8Cc9ZMHuufTqBGsbo4dBWpxJ6US7I5ZX8lwmbtu51wyeoXp-H3Q6zVACOTWTmC7iJYO4kScE2OTm00N79XpMhPjEgYa46y4r9wBYbnZSep_9Z0AgYbH4EozSTaYl_XeaoYuA6plQMxdL7Q4WuKnxFSIXMGKxm?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/kdNSkYSP_ecGU7gT5wI9uaNT00jiKNL1vv-2N-Bf9jCnRx2ByClC3VpJZPv3yFHAfWJhmuLy-s-WJMcIgBiQFvH5MJwKL2TYifxwbAJe9F72coEJIHYdYuyCiFN4oDFJ2pCrMLDTxrXp5D6IQUinI2R7OS3LPIGoqCj-8b9nQXFzC6rIQZgNSxOL7jcAhZnx?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/cTv8u5qJoO4I_vYlWSOidIxRQ12nlPRZNatehbv1M5IrYXIXKwik_hhQU36hELmeiWP7PRkmLwUeKwNGwh8YFv5jk2ENdw1rNwy1pJbC8eYiwJdK7CIgHtrWeo6BSgrXdOaix_LzbznWF5Wcq_O1wANAsfvXK6eDPvI1a8oB2qbYCGVfbkZbID-RzFOrncTb?purpose=fullsize)
-
 ![Image](https://images.openai.com/static-rsc-4/ChrJy6ExUFA43SnWeyWLK3bzMKlJk1cHU6WCydX3TMw0VpzzYDsORWAuXauS3YPANLIuabd-gfiyu6Uan8zC2b9rovKTiXqiKa-NNnRQY1meYiFDL0RCddw0MJfSbwK0-HKDtcxxTHlGo0YOh-XQYIiTA1sR47AwQFuBkoRWDLGiT33ZoqVt9mNKe7wvOQqJ?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/JYtV5niUVA3BmkoULytA5Jq7RXRU1Z2eV31wJWXXFL-Wo-5R-H6EW7IfuqJNfS2oB0IZrSGfip4x6jbjInTFVO34ByXEPKmd_pXzhrBom7tMj6pCcnolo7zl_jxlYaGSgDuTOUh-RZQGfuWM-kDgLN8WYuA7knQSlLHQOE0cAbXvFezKX43crtsMz9w4LjfT?purpose=fullsize)
 
 ```mermaid
 flowchart LR
