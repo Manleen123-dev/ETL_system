@@ -59,13 +59,10 @@ This approach processes one record at a time.
 
 ![Image](https://images.openai.com/static-rsc-4/26aOL_M1ct8ZklLT9AvVmk46NGbWPRwaBkGZaMYauSIH3_KjTc4bWgSv2QK20jtQQY1Y4k85l6Mfm5SrbRGuFaA6f-dwuOjIRF34q3AdPzpTCMR0Z3-Q8CxGeaFDg1in09UtwDBUe5YkJKRq7yXjkbBsQE83RSUFq1sv5i7uiAMqB1N6M2G6zoNDGBX5rtZj?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/lQ1OFyM_t6p9SE1wOQBOcY6RxOToDdC24f6wcTNLaxZpRPYX1-1wJiwotvse2i88XQ4ZbzhoHuBj8CNyJrg5aDaTW5F_5eQhT-8F45JyhIRKA80BkfmtiR1KEmgZbZqR9eqc4c0QWSpu5QoCc2ZJ6BdlCFUZ7I01QH91bIVvEwDRk0bQzn_naPW-mA3pSgWV?purpose=fullsize)
-
 ![Image](https://images.openai.com/static-rsc-4/Jlh46Eg0skYvBBgLQm_zR6n0PmdWUYUtz0FsMCaC_oCpf0B7G4Jb7WTnePrfZQJx7iz-l5KZMSjUViwD6Ejy0rl87UG2xenjibjrgSjw4EYEh4r-xiOAZDceUsevqMjXjDu5DK3QpkruYH-T6obU83b_Oa8zNpaDmmbKvF3iWkos0DWrHiTP8sCmU_SdPJpZ?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/GkI2BoxD29jE8WoiV4bEh5sbh4v25IlojRd7p88zKJHZ-v9iZSDJF2-ZNtM37J_vsBUhgTrFSWcZpkntIF5uRTB4cnBOMa4PXz4S0QYczHlnDnzqdEIdYYnhzWn14GNmeznpAvY5HJc4kCGz2rbTD4eiGsUACg3sJe5umei1sQy4gLGl7VRTDGS_STKL7hNZ?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/PZcVFVcLMWtEy1nmpElb1fKQXyQVedpJXG9wodSnVbn7R9G2DRHyyWAlta3D7SqeezqGxsHiFVtn-xLyPc6ALQ0gKEYhAU9_HH7oxQ7-GPMSGKrBsWSbpS7f4JoVcXZjBv-bodH9rRiX-TOEfRHgsycjq-ZFw68YxJen00RSnfSrzXM3EUrQBHbTBetSXGBp?purpose=fullsize)
 
 ```mermaid
 flowchart LR
